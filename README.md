@@ -29,6 +29,16 @@ emp_id
 - job title
 - And  many more.
 
+## Data Cleaning
+The initial inspection of the data revealed that the data was not clean and as such, it had to be cleaned. Some of the issues with the data included
+Incorrect date format for the hire_date end term date which had to be formatted to short date format using Excel
+
+## Data Transformation
+To give a better representation of data, the data had to be transformed using SQL
+The transformation included
+- Extracting age from the birth date
+- Finding the age distribution of the
+- Length of service for terminated workers
 
  
 
