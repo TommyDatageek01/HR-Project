@@ -1,6 +1,16 @@
 ## HR-Project
 
-The role of data analytics in human resource management cannot be overemphasized. The use of data analytics in the human resource industry has increased drastically. Data analytics can help to identify trends and reveal key info about the health of an organization
+## Table of Content
+- [Project Overview](#Project-Overview)
+- [Objectives](#Objectives)
+- [Data Source](#Data-Source)
+- [Tools](#Tools)
+- [Data Anatomy](#Data-Anatomy)
+- [Data Cleaning](#Data-Cleaning)
+- [Data Transformation](#Data-Transformation)
+  
+## Project Overview
+The role of data analytics in human resource management cannot be overemphasized. The use of data analytics in the human resource industry has increased drastically. Data analytics can help to identify trends and reveal key info about the health of an organization such as the productivity and efficiency of workers, detect flaws within the comppany's workforce, make prediction about the future and of course help with taking informed decision that could make things better for the organization.
 
 ## Objectives
 To use power-bi to show the visualization of a company's;
