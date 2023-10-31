@@ -67,6 +67,9 @@ The transformation included
   
 - From the data, the company appears to be doing well with the termination count of its staff as it has an average of less than 10% for all departments. This is relatively okay compared to industry standards of 10%
 - The retention rate of the company has been increasing from 2000 to 2022.
+- 
+- ![retent](https://github.com/TommyDatageek01/HR-Project/assets/141424792/339c3047-ca8c-49df-8fb1-bdf3dee83556)
+
 - The company has seen its retention increase from 85% starting in 2000 to more than 95% by 2020. This could mean that many of the staff are happy to work for the organization
 - This could also mean that the company has enjoyed relative stability over the years
 
