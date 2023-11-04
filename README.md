@@ -11,7 +11,7 @@
 - [Insights](#Insights)
   
 ## Project Overview
-The role of data analytics in human resource management cannot be overemphasized. The use of data analytics in the human resource industry has increased drastically. Data analytics can help to identify trends and reveal key information about the health of the workforce of an organization. With Data Analysis, the productivity and efficiency of workers can be tracked easily, Data Analysis cam also help to detect flaws within the company's workforce, make prediction about the future and of course help with taking informed decision that could make things better for the organization's work force.
+The role of data analytics in human resource management cannot be overemphasized. The use of data analytics in the human resource industry has increased drastically. Data analytics can help to identify trends and reveal key information about the health of the workforce of an organization. With Data Analysis, the productivity and efficiency of workers can be tracked easily, Data Analysis can also help to detect flaws within the company's workforce, make predictions and of course help with taking informed decisions that could make things better for the organization's workforce.
 
 ![HR 1](https://github.com/TommyDatageek01/HR-Project/assets/141424792/07b0c066-220e-4409-95aa-4abed4fa4c51)  
 
@@ -45,7 +45,7 @@ emp_id
 - race
 - department
 - job title
-- And  many more.
+- And many more.
 
 ## Data Cleaning
 The initial inspection of the data revealed that the data was not clean and as such, it had to be cleaned. Some of the issues with the data included
